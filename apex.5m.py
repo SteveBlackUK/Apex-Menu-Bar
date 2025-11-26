@@ -3,11 +3,11 @@
 # <xbar.title>Apex Reef Tank Monitor</xbar.title>
 # <xbar.version>v1.0</xbar.version>
 # <xbar.author>Steve Black</xbar.author>
-# <xbar.author.github>steveblack</xbar.author.github>
+# <xbar.author.github>SteveBlackUK</xbar.author.github>
 # <xbar.desc>Display real-time temperature, pH, and salinity from your Neptune Apex aquarium controller</xbar.desc>
-# <xbar.image>https://raw.githubusercontent.com/USERNAME/apex-menubar/main/screenshot.png</xbar.image>
+# <xbar.image>https://raw.githubusercontent.com/SteveBlackUK/Apex-Menu-Bar/main/screenshot.png</xbar.image>
 # <xbar.dependencies>python3</xbar.dependencies>
-# <xbar.abouturl>https://github.com/USERNAME/apex-menubar</xbar.abouturl>
+# <xbar.abouturl>https://github.com/SteveBlackUK/Apex-Menu-Bar</xbar.abouturl>
 
 """
 Apex Reef Tank Monitor - xbar/SwiftBar Plugin

@@ -29,7 +29,7 @@ An [xbar](https://xbarapp.com)/[SwiftBar](https://swiftbar.app) plugin that disp
 
 ### Manual Installation
 
-1. Download [`apex.5m.py`](https://raw.githubusercontent.com/USERNAME/apex-menubar/main/apex.5m.py)
+1. Download [`apex.5m.py`](https://raw.githubusercontent.com/SteveBlackUK/Apex-Menu-Bar/main/apex.5m.py)
 
 2. Move to your plugins folder:
    - xbar: `~/Library/Application Support/xbar/plugins/`
